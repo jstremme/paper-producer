@@ -8,7 +8,7 @@ Produces new papers from old papers by applying rules or ML models.
 
 ### Disclaimer
 
-For now, all derivative papers belong to the authors of the original paper.  
+For now, all derivative papers belong to the authors of the original paper.  Do not pass off derivative papers as your own.
 
 ### Environment
 
