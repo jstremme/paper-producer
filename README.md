@@ -4,7 +4,7 @@ Produces new papers from old papers
 
 ### About
 
-Produces new papers from old papers by applying rules or ML models.
+Produces new papers from old papers by applying rules or machine learning models.
 
 ### Disclaimer
 
